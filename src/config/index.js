@@ -14,5 +14,9 @@ module.exports = {
     },
     log: {
         level: process.env.LOG_LEVEL
+    },
+    swagger: {
+        path: '/documentation'
     }
 }
+ 
